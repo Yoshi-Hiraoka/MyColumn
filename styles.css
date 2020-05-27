@@ -57,6 +57,9 @@ section h2 {
   opacity: 1;
   text-decoration: underline;
 }
+.theme:after {
+  content: ' (執筆時間：3時間)';
+}
 footer {
   text-align: center;
   padding: 6vw;
