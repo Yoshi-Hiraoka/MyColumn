@@ -70,10 +70,6 @@ footer a {
   section {
     padding: 6vw 15vw;
   }
-  section > ul li {
-    display: flex;
-    justify-content: center;
-  }
   section > ul li p {
     padding-right: 5vw;
   }
